@@ -11,5 +11,3 @@ df = pd.DataFrame(data, index=index)
 
 # Write the DataFrame to a CSV file
 df.to_csv('fruit.csv')
-
-print("DataFrame written to 'fruit.csv'")
