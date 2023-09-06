@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 # Create the DataFrame
 data = {'Apples': [35, 41],
         'Bananas': [21, 34]}
